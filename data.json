@@ -1,0 +1,20 @@
+{
+  "name": "ชื่อ นามสกุล",
+  "initials": "AB",
+  "greeting": "สวัสดี ฉันคือ",
+  "tagline": "นักศึกษาสาขา ... กำลังเรียนรู้การสร้างเว็บไซต์ และชอบทำสิ่งที่ใช้งานง่ายและสวยงาม",
+  "about": "เขียนแนะนำตัวสั้น ๆ ตรงนี้ เช่น สิ่งที่สนใจ สิ่งที่กำลังเรียนรู้ และเป้าหมายในการเรียนของคุณ",
+  "skills": ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
+  "projects": [
+    { "title": "My Portfolio", "subtitle": "Week 12", "emoji": "🌐", "color": "blue", "url": "#" },
+    { "title": "To-do List", "subtitle": "JavaScript", "emoji": "✅", "color": "green", "url": "#" },
+    { "title": "Weather", "subtitle": "API", "emoji": "⛅", "color": "yellow", "url": "#" },
+    { "title": "Calculator", "subtitle": "HTML / CSS", "emoji": "🧮", "color": "gray", "url": "#" }
+  ],
+  "contact": [
+    { "label": "อีเมล", "value": "yourname@email.com", "url": "mailto:yourname@email.com" },
+    { "label": "GitHub", "value": "github.com/username", "url": "https://github.com/username" },
+    { "label": "LINE", "value": "@yourid", "url": "#" }
+  ],
+  "year": 2026
+}
